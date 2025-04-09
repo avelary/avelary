@@ -18,7 +18,7 @@
 
 <h3 align="left">My Stack ~</h3>
 
-<div align="left" style="margin-top: 0;><br>
+<div align="left" style="margin-top: 0;">
   <img align="center" alt="Avelar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Avelar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Avelar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
