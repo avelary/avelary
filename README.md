@@ -4,7 +4,10 @@
   </a>
 </div>
 
-<p align="center"> I'm Yago Avelar, a Software Development student focused on becoming a full-stack developer. I have a strong foundation in  JavaScript, TypeScript, and React. Currently, I'm diving into backend development with NestJS, Express, and MongoDB. Sounds cliché, but I genuinely enjoy coding and building things. </p> 
+<p align="center">
+  I'm Yago Avelar, a Software Development student focused on becoming a full-stack developer. I have a strong foundation in TypeScript and React, including Next.js for frontend development. Currently, I'm diving into backend development with Node.js, Fastify, and relational databases like SQL. Sounds cliché, but I genuinely enjoy coding and building things.
+</p>
+ 
   
 #
 
@@ -19,12 +22,13 @@
 <h3 align="left">My Stack ~</h3>
 
 <div align="left" style="margin-top: 0;">
+  <img align="center" alt="Avelar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Avelar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Avelar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Avelar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Avelar-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Avelar-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Avelar-Express" height="30" src="https://skillicons.dev/icons?i=express">
+  <img align="center" alt="Avelar-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Avelar-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
 
