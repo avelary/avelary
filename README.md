@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  I'm Yago Avelar, a Software Development student focused on becoming a full-stack developer. I have a strong foundation in TypeScript and React, including Next.js for frontend development. Currently, I'm diving into backend development with Node.js, Fastify, and relational databases like SQL. Sounds cliché, but I genuinely enjoy coding and building things.
+  I'm Yago Avelar, a full-stack developer working end to end on products from UI/UX and business rules to the API in production. I build with TypeScript, React and Next.js on the front, and Node.js (NestJS, Fastify) and Python on the back. Lately I've been building systems with AI agents: tool calling, RAG and workflow automation. Sounds cliché, but I genuinely enjoy coding and building things.
 </p>
  
   
@@ -25,6 +25,7 @@
   <img align="center" alt="Avelar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Avelar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Avelar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Avelar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Avelar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Avelar-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Avelar-Express" height="30" src="https://skillicons.dev/icons?i=express">
@@ -33,14 +34,6 @@
 </div>
 
 #
-
-<div style="text-align: center;" align="center">
-<h3>* GitHub Stats *</h3>
-  <a href="https://github.com/avelary">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=avelary&show_icons=true&theme=neon&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelary&layout=compact&langs_count=16&theme=neon">
-</div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avelary/avelary/output/github-contribution-grid-snake-dark.svg">
